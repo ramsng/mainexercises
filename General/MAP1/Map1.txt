@@ -1,0 +1,1 @@
+NewReader returns a new Reader whose buffer has the default size
