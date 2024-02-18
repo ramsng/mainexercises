@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ramsng/sub01/tree/main/dog"
+	"github.com/ramsng/sub01/dog"
 )
 
 func main() {
