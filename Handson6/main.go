@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println(dog.Y(10))
-	fmt.Println(Years2(10))
+	fmt.Println(dog.Years(10))
+	fmt.Println(dogs.Years2(10))
 }
