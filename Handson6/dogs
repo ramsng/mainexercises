@@ -1,5 +1,5 @@
-//Package dog - Age conversion to dog years
-package dog
+//Package dogs - Age conversion to dog years
+package dogs
 
 //Function Years1 - Life of mature dog through eazy return
 func Years1(a int) int {

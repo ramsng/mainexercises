@@ -1,4 +1,4 @@
-package dog
+package dogs
 
 import (
 	"fmt"
@@ -7,6 +7,8 @@ import (
 
 func ExampleYears1(t *testing.T) {
 	fmt.Println(Years1(10))
+	//Output:
+	//100
 }
 
 func BenchmarkYears1(b *testing.B) {
