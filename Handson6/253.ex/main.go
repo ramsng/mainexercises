@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/ramsng/sub01/dog"
+	"github.com/ramsng/sub01/dogs"
 )
 
 func main() {
-	fmt.Println(dog.Years(10))
+	fmt.Println(dogs.Years1(10))
 	fmt.Println(dogs.Years2(10))
 }

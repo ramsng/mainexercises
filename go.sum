@@ -4,7 +4,13 @@ github.com/ramsng/sub01 v0.0.0-20240218053132-1dbcb851cd44 h1:Pdt8ttsGsYmf7rgsEt
 github.com/ramsng/sub01 v0.0.0-20240218053132-1dbcb851cd44/go.mod h1:CFXJU1DypRkmQ5WQBSJoqThIZqGTz+oI9YnT/2m+Xo4=
 github.com/ramsng/sub01 v0.0.0-20240218062824-dc5f3b374b28 h1:3ORQa7gPExsv5cFUif++euQHxivAp+UZqpn6J8v60tE=
 github.com/ramsng/sub01 v0.0.0-20240218062824-dc5f3b374b28/go.mod h1:CFXJU1DypRkmQ5WQBSJoqThIZqGTz+oI9YnT/2m+Xo4=
+github.com/ramsng/sub01 v0.0.0-20240307151734-940ec6f614f9 h1:xE1cPCO7VYDBHCegIaUFC82oVlkaOlxPZMuXFqeSKNc=
+github.com/ramsng/sub01 v0.0.0-20240307151734-940ec6f614f9/go.mod h1:Wlcf7kSWT2s84RGOi43ZJb8VibgGG9NWLEZ9lGwBHqM=
+github.com/ramsng/sub01/dogs v0.0.0-20240309060958-b4000b18c511 h1:FV24WOYkuGsR2KXPbzyjpH+VQWe+dyJdG8Yul33GWQ4=
+github.com/ramsng/sub01/dogs v0.0.0-20240309060958-b4000b18c511/go.mod h1:U9GUoiI8VQbugw4YN9hzOPHckdLNCjgXaYrre0AA0Q4=
 github.com/ramsng/sub02 v0.0.0-20240106193659-eb953661b1c2 h1:tOqYC2E2sWxcyvdbZKZT2LLqByuSOdFtfQFhkGinVpY=
 github.com/ramsng/sub02 v0.0.0-20240106193659-eb953661b1c2/go.mod h1:lquDwpvIUDNwJB+QbIS15tSMLtcbSc0jOxRE8FF/keo=
 github.com/ramsng/sub03 v0.0.0-20240106175622-bd944c0bb20f h1:ReEB4JPUNyXRLvE6X0fdgA+GQ0+uxPZ9GH1+HK6/Vno=
 github.com/ramsng/sub03 v0.0.0-20240106175622-bd944c0bb20f/go.mod h1:e20oHlNMqRdeueJ0opPXy04dLq5Vrwy4taXXwzO+UOY=
+github.com/ramsng/sub03 v0.0.0-20240106194132-bc3d0ffb083e h1:tIUj66lEBDUW2D0EhdHiSqqGPdZOfmx10oTi3gJiFSo=
+github.com/ramsng/sub03 v0.0.0-20240106194132-bc3d0ffb083e/go.mod h1:UclzvxKDZo9zVLvE/kY9hxrrO5GMy45OY1yn6xb2lSI=
